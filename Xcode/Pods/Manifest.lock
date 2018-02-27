@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlertOnboarding (2.0)
+  - IQKeyboardManagerSwift (5.0.7)
+  - Localize-Swift (2.0.0)
+  - SCLAlertView (0.7.0)
+  - SwiftyJSON (4.0.0)
+  - UICircularProgressRing (1.7.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireImage (~> 3.3)
+  - AlertOnboarding
+  - IQKeyboardManagerSwift
+  - Localize-Swift (~> 2.0)
+  - SCLAlertView (from `https://github.com/maxim-danilov-anoda/SCLAlertView-Swift`)
+  - SwiftyJSON
+  - UICircularProgressRing
+
+EXTERNAL SOURCES:
+  SCLAlertView:
+    :git: https://github.com/maxim-danilov-anoda/SCLAlertView-Swift
+
+CHECKOUT OPTIONS:
+  SCLAlertView:
+    :commit: 64978fdbf82b08ea14555d2465b24843b53bfa47
+    :git: https://github.com/maxim-danilov-anoda/SCLAlertView-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlertOnboarding: 2e6804e67894894807c5d24bcfcd7905897e6f08
+  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  UICircularProgressRing: b35e45dc82aac8009d038ef4d2e19718675df2bd
+
+PODFILE CHECKSUM: 4f3ada09d1c912148fda3555fe2337202901bc02
+
+COCOAPODS: 1.4.0

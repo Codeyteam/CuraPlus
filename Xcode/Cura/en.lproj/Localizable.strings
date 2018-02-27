@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Cura
+
+  Created by Ivan Ghazal on 1/2/18.
+  Copyright © 2018 Ivan Ghazal. All rights reserved.
+*/
+"Blackouts" = "Blackouts";
+"Male" = "Male";
+"Female" = "Female";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"IntroPage1" = "Intro 1";
+"IntroPage2" = "Intro 2";
+"IntroPage3" = "Intro 3";
+"Please Accept Agreement!" = "Please Accept Agreement!";
+"Please fill your age!" = "Please fill your age!";
+"Please select gender!" = "Please select gender!";
+"You have already added this symptom!" = "You have already added this symptom!";
+"App will close to apply new settings" = "App will close to apply new settings";
+"OK" = "OK";

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13770" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13770"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TableCellTop" customModule="Cura" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="41"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eJe-n0-qWP">
+                    <rect key="frame" x="0.0" y="11" width="375" height="30"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fxk-gS-2xx">
+                            <rect key="frame" x="10" y="5" width="349" height="21"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="fxk-gS-2xx" firstAttribute="top" secondItem="eJe-n0-qWP" secondAttribute="top" constant="5" id="26T-ye-82S"/>
+                        <constraint firstItem="fxk-gS-2xx" firstAttribute="leading" secondItem="eJe-n0-qWP" secondAttribute="leading" constant="10" id="6pn-Ox-3UX"/>
+                        <constraint firstAttribute="trailing" secondItem="fxk-gS-2xx" secondAttribute="trailing" constant="16" id="Nw4-VO-bP6"/>
+                        <constraint firstAttribute="bottom" secondItem="fxk-gS-2xx" secondAttribute="bottom" constant="4" id="S8i-3I-veF"/>
+                        <constraint firstAttribute="height" constant="30" id="ylz-Iq-NUN"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="eJe-n0-qWP" secondAttribute="bottom" id="886-mt-VGA"/>
+                <constraint firstItem="eJe-n0-qWP" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="CoE-Nj-klc"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="eJe-n0-qWP" secondAttribute="trailing" id="PTb-oJ-7ra"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="labelName" destination="fxk-gS-2xx" id="vBb-KL-rH4"/>
+                <outlet property="topView" destination="eJe-n0-qWP" id="CWJ-5N-hun"/>
+            </connections>
+            <point key="canvasLocation" x="35.5" y="-242.5"/>
+        </view>
+    </objects>
+</document>

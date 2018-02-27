@@ -1,0 +1,244 @@
+
+//main menu
+
+
+
+//Home page
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "4vz-nT-XSG"; */
+"4vz-nT-XSG.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Welcome to Cura App"; ObjectID = "5Pu-H9-jlU"; */
+"5Pu-H9-jlU.text" = "مرحبا بكم في تطبيق +Cura";
+
+/* Class = "UITextField"; placeholder = "Choose age"; ObjectID = "FwH-hr-cOf"; */
+"FwH-hr-cOf.placeholder" = "اختر العمر";
+
+/* Class = "UITextField"; placeholder = "Choose gender"; ObjectID = "x2l-2O-bxZ"; */
+"x2l-2O-bxZ.placeholder" = "اختر الجنس";
+
+/* Class = "UILabel"; text = "We provide valuable health information , support to those who seek information not we dosent provide medical advice , diagnosis or treatment . see aditional information "; ObjectID = "ILa-Ny-oBB"; */
+"ILa-Ny-oBB.text" = "هذا التطبيق هو فقط لتقديم المعلومات الطبية وللتشخيص الأولي، وهو لا يغني بأي حال من الأحوال عن الاستشارة الطبية أو الاتصال بالطوارئ عند الضرورة.";
+
+
+// MySemptomsBody page
+
+/* Class = "UILabel"; text = "Choose the symptom area "; ObjectID = "bne-zc-2eT"; */
+"bne-zc-2eT.text" = "اختر منطقة العارض من جسمك";
+
+
+
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "Juc-y4-l6p"; */
+"Juc-y4-l6p.normalTitle" = "اللائحة";
+
+/* Class = "UIButton"; normalTitle = "Body"; ObjectID = "dEq-lw-AVu"; */
+"dEq-lw-AVu.normalTitle" = "الجسم";
+
+// MySemptomsList page
+
+/* Class = "UIButton"; normalTitle = "Body"; ObjectID = "QEO-Da-Zr1"; */
+"QEO-Da-Zr1.normalTitle" = "الجسم";
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "1YA-ll-pTY"; */
+"1YA-ll-pTY.normalTitle" =  "اللائحة";
+
+/* Class = "UILabel"; text = "Refine your symptoms"; ObjectID = "Xc8-lM-h7x"; */
+"Xc8-lM-h7x.text" = "تحديد الأعراض";
+
+
+// ChoosenSemptomsViewController page
+/* Class = "UIButton"; normalTitle = "View Possible Conditions"; ObjectID = "3ZF-XE-P5A"; */
+"3ZF-XE-P5A.normalTitle" = "عرض الاعراض المحتملة";
+
+/* Class = "UILabel"; text = "My Symptoms"; ObjectID = "l1G-gP-e8s"; */
+"l1G-gP-e8s.text" = "الاعراض المختارة";
+
+/* Class = "UIButton"; normalTitle = "+ Add Symptom"; ObjectID = "vdV-sA-0CI"; */
+"vdV-sA-0CI.normalTitle" = "+ اضافة عارض";
+
+/* Class = "UILabel"; text = "Your informations"; ObjectID = "SP8-VE-Zke"; */
+"SP8-VE-Zke.text" = "معلوماتك الشخصية";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "S2X-bu-zKs"; */
+"S2X-bu-zKs.text" = "الجنس";
+
+/* Class = "UIButton"; normalTitle = "You"; ObjectID = "fOF-bk-crn"; */
+"fOF-bk-crn.normalTitle" = "انت";
+
+
+
+// PossibleConditions page
+
+/* Class = "UILabel"; text = "Possible Conditions"; ObjectID = "pfT-gu-RRj"; */
+"pfT-gu-RRj.text" = "الحالات المحتملة";
+
+
+// conditionPage page
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "RQm-N3-GUe"; */
+"RQm-N3-GUe.normalTitle" = "مشاركة";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "TH3-88-5oO"; */
+"TH3-88-5oO.normalTitle" = "حفظ";
+/* Class = "UILabel"; text = "EMERGENCY"; ObjectID = "LbZ-gI-MvM"; */
+"LbZ-gI-MvM.text" = "حالة طوارئ";
+
+/* Class = "UIButton"; normalTitle = "CALL"; ObjectID = "xAI-ov-0x5"; */
+"xAI-ov-0x5.normalTitle" = "اتصل";
+
+//callDoctor page
+/* Class = "UILabel"; text = "Call Doctor"; ObjectID = "nv0-aA-6aZ"; */
+"nv0-aA-6aZ.text" = "اتصل بالطبيب";
+
+/* Class = "UITextField"; placeholder = "FullName"; ObjectID = "vK6-I8-RJv"; */
+"vK6-I8-RJv.placeholder" = "الاسم بالكامل";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "HZv-to-ukD"; */
+"HZv-to-ukD.text" = "الاسم";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "FBO-wN-DYX"; */
+"FBO-wN-DYX.text" = "الهاتف";
+
+/* Class = "UITextField"; placeholder = "Skype"; ObjectID = "SRF-9b-NIF"; */
+"SRF-9b-NIF.placeholder" = "سكايبي";
+
+/* Class = "UITextField"; placeholder = "WhatApp"; ObjectID = "OLT-RK-y2Z"; */
+"OLT-RK-y2Z.placeholder" = "واتس اب";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "hxY-8I-sUy"; */
+"hxY-8I-sUy.normalTitle" = "ارسال";
+
+/* Class = "UILabel"; text = "Add your favotites way to contact you and the doctore will call you shortly."; ObjectID = "I4l-ZD-6O5"; */
+"I4l-ZD-6O5.text" = "اختار طريقة الاتصال التي تناسبك وسنقوم بالاتصال بك قريبا ";
+
+
+
+// others
+
+/* Class = "UIButton"; normalTitle = "I Agree"; ObjectID = "1Hn-L2-zGu"; */
+"1Hn-L2-zGu.normalTitle" = "أوافق";
+
+
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "2HP-ao-20e"; */
+"2HP-ao-20e.text" = "العمر";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "3Xb-cq-7m8"; */
+"3Xb-cq-7m8.text" = "العمر";
+
+
+
+
+
+
+
+/* Class = "UILabel"; text = "Floating in your Area "; ObjectID = "5ly-S2-Z9c"; */
+"5ly-S2-Z9c.text" = "Floating in your Area ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6fK-I0-01I"; */
+"6fK-I0-01I.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "I Agree"; ObjectID = "7Gp-ac-bBt"; */
+"7Gp-ac-bBt.normalTitle" = "أوافق";
+
+
+/* Class = "UILabel"; text = "burning or stining \n"; ObjectID = "9hX-7q-eq5"; */
+"9hX-7q-eq5.text" = "burning or stining \n";
+
+/* Class = "UILabel"; text = "1/4"; ObjectID = "BRV-Dt-iRC"; */
+"BRV-Dt-iRC.text" = "1/4";
+
+/* Class = "UIButton"; normalTitle = "I Agree"; ObjectID = "CNg-Da-WVS"; */
+"CNg-Da-WVS.normalTitle" = "أوافق";
+
+/* Class = "UITextView"; text = "If you feel any heart attack symptoms, don't wait to get help. \nCall 911 immediately. \nRest until an emergency team arrives. \n"; ObjectID = "CYg-IW-ycw"; */
+"CYg-IW-ycw.text" = "If you feel any heart attack symptoms, don't wait to get help. \nCall 911 immediately. \nRest until an emergency team arrives. \n";
+
+/* Class = "UIButton"; normalTitle = "I Agree"; ObjectID = "Cxh-v7-Xxm"; */
+"Cxh-v7-Xxm.normalTitle" = "أوافق";
+
+
+
+/* Class = "UITextField"; placeholder = "Choose gender"; ObjectID = "HqL-eX-S9x"; */
+"HqL-eX-S9x.placeholder" = "اختر الجنس";
+
+
+
+
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "JxO-bi-ECx"; */
+"JxO-bi-ECx.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "Question for the details of symptons ?"; ObjectID = "K1G-Iz-AqR"; */
+"K1G-Iz-AqR.text" = "Question for the details of symptons ?";
+
+
+
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "O70-RZ-MQ6"; */
+"O70-RZ-MQ6.text" = "العمر";
+
+
+
+
+
+/* Class = "UITextView"; text = "Heart Attack (Female) Symptoms\nDiscomfort, tightness, pressure, fullness, or crushing pain in the chest; pain in the back, jaw, neck, shoulders, or arms (which may radiate from the chest); shortness of breath; profuse sweating; nausea or vomiting; exhaustion or weakness; stomach or abdominal pain; anxiety; new or worse headaches\n\nOverview\nA heart attack occurs when blood flow to the heart muscle is reduced or stopped by blockage in one or more arteries. If blood supply is cut off for more than a few minutes, you may become disabled or die. Getting emergency treatment can limit or prevent damage to the heart and save your life. Women are less likely than men to believe they're having a heart attack and less likely get help right away. Some women mistakenly think heart attacks cause only chest pain. But a woman having a heart attack may just feel extreme weakness or fatigue, fullness in the chest, or back pain between the shoulder blades. Some may feel only nausea or shortness of breath. Women can't control some risk factors for heart attacks, such as age or heredity, but can control many others.\n\nVisit the Heart Attack Directory"; ObjectID = "WBG-9H-uwn"; */
+"WBG-9H-uwn.text" = "Heart Attack (Female) Symptoms\nDiscomfort, tightness, pressure, fullness, or crushing pain in the chest; pain in the back, jaw, neck, shoulders, or arms (which may radiate from the chest); shortness of breath; profuse sweating; nausea or vomiting; exhaustion or weakness; stomach or abdominal pain; anxiety; new or worse headaches\n\nOverview\nA heart attack occurs when blood flow to the heart muscle is reduced or stopped by blockage in one or more arteries. If blood supply is cut off for more than a few minutes, you may become disabled or die. Getting emergency treatment can limit or prevent damage to the heart and save your life. Women are less likely than men to believe they're having a heart attack and less likely get help right away. Some women mistakenly think heart attacks cause only chest pain. But a woman having a heart attack may just feel extreme weakness or fatigue, fullness in the chest, or back pain between the shoulder blades. Some may feel only nausea or shortness of breath. Women can't control some risk factors for heart attacks, such as age or heredity, but can control many others.\n\nVisit the Heart Attack Directory";
+
+
+
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "Zdz-VB-GN6"; */
+"Zdz-VB-GN6.normalTitle" = "تخطي";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "acB-Nj-QJn"; */
+"acB-Nj-QJn.text" = "الجنس";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bCs-7p-Pdg"; */
+"bCs-7p-Pdg.normalTitle" = "التالي";
+
+
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "c4A-eu-8qa"; */
+"c4A-eu-8qa.text" = "الجنس";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UILabel"; text = "Agitation"; ObjectID = "csF-Dj-vBp"; */
+"csF-Dj-vBp.text" = "Agitation";
+
+
+
+/* Class = "UILabel"; text = "West Nile viruse"; ObjectID = "eXc-s1-d4p"; */
+"eXc-s1-d4p.text" = "West Nile viruse";
+
+
+
+/* Class = "UILabel"; text = "Femal"; ObjectID = "h8T-hg-vAD"; */
+"h8T-hg-vAD.text" = "أنثى";
+
+/* Class = "UILabel"; text = "Heart Attack - Female"; ObjectID = "j9W-7y-64s"; */
+"j9W-7y-64s.text" = "Heart Attack - Female";
+
+
+
+/* Class = "UITextField"; placeholder = "Choose age"; ObjectID = "lF8-08-qyQ"; */
+"lF8-08-qyQ.placeholder" = "اختر العمر";
+
+/* Class = "UILabel"; text = "34"; ObjectID = "o8T-Uk-V5A"; */
+"o8T-Uk-V5A.text" = "34";
+
+/* Class = "UILabel"; text = "Edit your Profile"; ObjectID = "p6C-Dg-OYb"; */
+"p6C-Dg-OYb.text" = "Edit your Profile";
+
+
+
+
+
+/* Class = "UILabel"; text = "Myocardial infarction, coronary thrombosis, coronary occlusion"; ObjectID = "uqM-Ad-uAi"; */
+"uqM-Ad-uAi.text" = "Myocardial infarction, coronary thrombosis, coronary occlusion";
+
+/* Class = "UILabel"; text = "I Agree"; ObjectID = "feZ-QG-PcW"; */
+"feZ-QG-PcW.text" = "أوافق";
+
+
+

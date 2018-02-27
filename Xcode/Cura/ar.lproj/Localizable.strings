@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Cura
+
+  Created by Ivan Ghazal on 1/2/18.
+  Copyright © 2018 Ivan Ghazal. All rights reserved.
+*/
+"Blackouts" = "لبيبسيب ";
+"Male" = "ذكر";
+"Female" = "انثى";
+"Done" = "تم" ;
+"Cancel" =  "إلغاء";
+"IntroPage1" = "هذا التطبيق يساعدك في التشخيص المبدئي بحسب الأعراض ولكنه لا يغني عن زيارة الطبيب ";
+"IntroPage2" = "نحاول ان نوصل معلومات طبية لكل المستخدمين بشكل سلس ومفهوم معتمدين على خوارزميات طبية ";
+"IntroPage3" = "مشاركتك معنا تساعد في تطوير البرنامج للحصول على نتائج أدق ";
+"Please Accept Agreement!" = "الرجاء ضغط زر الموافقة";
+"Please fill your age!" = "الرجاء ادخال العمر";
+"Please select gender!" = "الرجاء اختيار الجنس";
+"Please type your name!" = "يرجى ادخال الاسم!";
+"Please type your phone number!" = "يرجى ادخال رقم الهاتف!";

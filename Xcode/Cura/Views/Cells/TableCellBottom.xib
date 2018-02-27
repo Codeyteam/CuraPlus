@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TableCellBottom" customModule="Cura" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="81"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xbf-YA-tdV">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="20"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="fPR-ez-lgR"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Xbf-YA-tdV" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="B0r-IR-boV"/>
+                <constraint firstItem="Xbf-YA-tdV" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ahm-N8-779"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Xbf-YA-tdV" secondAttribute="trailing" id="cAh-rH-6Hy"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="bottomView" destination="Xbf-YA-tdV" id="Wd6-Cb-KH7"/>
+            </connections>
+            <point key="canvasLocation" x="33.5" y="-244.5"/>
+        </view>
+    </objects>
+</document>
